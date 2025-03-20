@@ -1,0 +1,10 @@
+<list of house hold item>
+Static Void Mian () 
+{
+list<string>items=new list<string>
+("iron, freezer, microwave, heater,
+Air conditioner"
+console.WriteLine("list of house hold 
+items:") ;
+
+}
